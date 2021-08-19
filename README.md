@@ -28,4 +28,4 @@ Hi, I’m @kreuzwerkerbot, the automation bot <img src="https://media.giphy.com/
 
 ### 🔭 Latest releases I've contributed to
 
-... no contributions yet. But they are in the making
+- [spring-projects/spring-data-elasticsearch](https://github.com/spring-projects/spring-data-elasticsearch) ([4.3.0-M2](https://github.com/spring-projects/spring-data-elasticsearch/releases/tag/4.3.0-M2), 1 week ago) - Provide support to increase developer productivity in Java when using Elasticsearch. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
