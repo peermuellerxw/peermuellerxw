@@ -18,5 +18,5 @@ Hi, I’m Peer, I usually backend apps with Java/Spring-Boot. But I also enjoy m
 
 ### 🔭 Latest releases I've contributed to
 
-- [spring-projects/spring-data-elasticsearch](https://github.com/spring-projects/spring-data-elasticsearch) ([4.3.2](https://github.com/spring-projects/spring-data-elasticsearch/releases/tag/4.3.2), today) - Provide support to increase developer productivity in Java when using Elasticsearch. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
+- [spring-projects/spring-data-elasticsearch](https://github.com/spring-projects/spring-data-elasticsearch) ([4.4.0-M3](https://github.com/spring-projects/spring-data-elasticsearch/releases/tag/4.4.0-M3), today) - Provide support to increase developer productivity in Java when using Elasticsearch. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 
